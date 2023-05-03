@@ -1,0 +1,13 @@
+@import url("myStyle.css");
+
+body {
+  font-size: 1.5em;
+}
+
+#nagybetus {
+  display: none;
+}
+
+#normal {
+  display: block;
+}
