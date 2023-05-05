@@ -1,0 +1,121 @@
+index.html
+Legfelkapottabb zenei streaming szolgáltatások
+Mik azok a streaming szolgáltatások?
+A streaming szolgáltatások olyan online szolgáltatások, amelyek lehetővé teszik a felhasználók számára, hogy az interneten keresztül játszanak le jelen esetben zenét, de akár filmeket vagy élő adásokat. Ehhez szüksége van a felhasználónak internetre, valamilyen okoseszközre legyen az okostelefon táblagép, okos TV. Számos ilyen alkalmazás létezik manapság, legtöbbjüknek akkor van értelme, ha előfizetünk. Vannak persze ingyenes verziók is de ott különböző funkciók nem elérhetőek. 
+ 
+Az appok lényege
+Szinte az összes ilyen alkalmazásnak az a lényege, hogy a felhasználó zenét tudjon hallgatni akár hol van. Ezeket a zenéket rendezni tudja lejátszási listákba, és az app a kedvelt és a legtöbbet hallgatott számokhoz hasonlókat ajánljon. Ha éppen nincsen internet, az addig letöltött zenéket is lehessen hallgatni. Mégis mi a különbség akkor az appok között.
+Mik a különbségek az alkalmazások között?
+A fő különbség, az az árazás, a zene minősége, az appok használhatósága és a megtalálható zenék száma és ezek mellett van pár érdekes funkció, ami nagyban befolyásolja az emberek döntését a választáskor.
+
+ 
+szempontok.html
+Összehasonlítások különböző szempontok szerint
+Árazás
+Fontos figyelembe venni, hogy mennyit fizetünk az adott szolgáltatásért. Vannak különböző csomagok, például társas vagy családi csomag. Itt az adott összegért több fiók (családinál általában 6, társasnál értelemszerűen 2) kap prémium funkciókat. Vannak szolgáltatók, akik a megfelelő dokumentumok igazolásával adnak hallgatói kedvezményt.  
+Hangminőség
+Fontos az, hogy a zenét milyen minőségben streameljük. A jobb minőségű zene nagyobb adatforgalmat generál, viszont kevésbé lesz veszteséges. Vannak szolgáltatók, ahol veszteségmentesen tudunk streamelni zenéket. Nem árt megérteni és tisztában lenni a mintavételezés (Sample Rate) és a bitmélység (Bit Depth) fogalmával.
+Mintavételezés
+A mintavételezési frekvencia a másodpercenként átvitt hangminták száma, ezt Hertzben (Hz) vagy kilohertzben (kHz) mérjük. Azaz, ha 44100 Hz-ről beszélünk azt mondjuk, hogy 1 másodperc alatt 44100-szor Azaz tegyük fel hogy van egy mikrofonunk, és felveszünk vele egy másodpercnyi hangot, akkor az a mikrofon azt a hangot 44100-szor fogja felvenni. Minél nagyobb ez a szám annál jobb minőségű hangot fogunk kapni. 
+Bit mélység
+Az egyes mintákba átvitt információ/adat száma. Ez határozza meg a különböző minták minőségét.
+ 
+Minél nagyobb a bit mélység és a mintavételezés, annál jobb minőségű a zene és annál nagyobb a fájl nagysága is. 
+Veszteséges és veszteségmentes fileok
+Ezeknek többféle fajtája létezik, de röviden annyi a lényegük, hogy az eredeti fájlokat minél kisebb méretűre van tömörítve annál könnyebb a hordozhatósága (a fájl mérete miatt) és annál kevesebb adatforgalmat használ, viszont a hangminőség silányabb lesz. Itt egy érdekes videó az mp3 és a wav fájlformátumról, hogy mennyiben különböznek. [https://www.youtube.com/watch?v=UoBPNTAFZMo]
+
+Könyvtárak nagysága
+Ez annyira nem releváns, mert ahogy haladunk az időben az újabb zenék már a legtöbb helyen megtalálhatók, viszont, ha régebbi kevésbé ismert zenét szeretnénk hallgatni, akkor az nem biztos, hogy elérhető lesz ott, ahol mi szeretnénk. 
+szolgaltatasokosszehasonlitasa.html
+    
+Spotify
+A kezdetek
+2008-as indulásakor akkor még Spotify AB néven futott és csak Svédországban volt jelen, de dinamikusan fejlődött. 2012 decemberére a szolgáltatás az alábbi országokban volt jelen: Andorra, Ausztrália, Ausztria, Belgium, Dánia, Feröer, Finnország, Franciaország, Németország, Írország, Liechtenstein, Luxembourg, Magyarország, Monaco, Hollandia, Új-Zéland, Norvégia, Spanyolország, Svédország, Svájc, Egyesült Királyság és az Amerikai Egyesült Államok. Azóta a világon szinte mindenhol kézzelfogható valóság és mára már bőséggel túllépte a 100 milliós felhasználói tábort.
+Maga az app
+Kritikusai ellenére a Spotify továbbra is a legnépszerűbb és legkényelmesebb módja a zenei streamingnek. Több mint 82 millió dalt tartalmaz és ez szinte bármilyen eszközön lejátszható. A híres új zenefelderítő algoritmus az összes közül a legjobb. Kiváló heti lejátszási listákat állít össze a felhasználó zenei ízléséhez igazodva. Minél több zenét hallgat, annál jobban fejlődnek a lejátszási listák, ennek a szolgáltatásnak ez az egyik fő előnye. Miközben zenét hallgatunk láthatjuk a dalszöveget is, és annak segítségével is oda „ugorhatunk” egyes részekhez. Kétségkívül ez a legelterjedtebb és legkézenfekvőbb app. Az alkalmazás kezelése és különböző funkciói egészen izgalmassá teszik a zenehallgatást. A dalok letöltése mellett hozzáadhatunk a lejátszási listához nem appon belüli letöltött hangfájlokat. Nemsokára pedig megjelenik az új AI DJ funkció, ami megmutatja a felhasználónak a legújabb zenéket és annak ízlése szerint fog újabbnál újabb számokat lejátszani. Ha van egy régi kedvenc, elmondja, hogy mikor szerettük azt a zenét és visszarepít minket abba az időbe. Ez a funkció még Magyarországon nem elérhető.
+ 
+Hangminőség
+Hangminőség tekintetében a Spotify megkülönbözteti az ingyenes és a fizetős felhasználókat. Az ingyenes max. 160 kbps OGG zenéket, a fizetős prémium saját appal a szolgáltatás 320 kbps OGG zenéket kínál. Ez az egyetlen olyan szolgáltató, ami nem kínál veszteségmentes zenét, ugyanis a riválisok mindegyike támogatja a legalább CD minőséget. 2022 végére volt tervezve a Spotify HiFi bevezetése, de ez nem történt meg. Ennek a bevezetése nagy lépést jelentene ugyanis a mostani 320kbps bitsebesség helyett hallgathatnánk a 1411kpbs-os CD minőségű zenéket.
+Árazás
+A Spotifynak van ingyenes verziója, de az nem reklámmentes és a hangminőség is rosszabb mint a prémiumnak. A következő csomagok teljes hozzáférést biztosítanak az alkalmazáshoz.
+A prémium csomagok árai:
+Spotify Premium: 10$ (1490Ft)
+	Ha a felhasználó igazolja, hogy egyetemi hallgató akkor csak 2,50$ (750Ft)
+Spotify Duo: 13$ (1990Ft)
+Ez ugyan az mint a sima prémium csak 2 embernek 2 fiók jár. Fontos, hogy egy helyen kell élniük az embereknek
+
+Spotify Family: 15$ (2490Ft)
+Prémium szolgáltatások 6 embernek. A lakcím itt is számít.
+
+Összeségében 
+A Spotify a legelterjedtebb szolgáltatás, ha zenéről van szó legyünk bárhol a világon. Az árak teljesen rendben vannak azért, amit kapunk. A hangminőségben még van hová fejlődni, viszont a legtöbb felhasználó nem használná ki a veszteségmentes minőséget. Ez a szolgáltatás a lehető legjobb választás, ha a mindennapok rohanásait kellemes zenével szeretnéd feldobni, és egy rendkívül jól algoritmizált alkalmazást szeretnél használni.  
+Tidal
+Kezdetek
+A Tidal Norvégiában indult 2010-ben, majd később felvásárolta Jay-Z, aki saját elképzelése szerint folytatta. Régóta a jó minőségű streaming jellemzi a szolgáltatás Az itt fellehető zenék mennyisége is a bőven elég kategóriába tartozik, pontos számokkal nem tudunk szolgálni, mert mást mond a tulajdonos és mást az elvileg független elemzők. De az átlag elévülési idővel rendelkező hallgató sem fogja tudni meghallgatni az összes zenét még akkor sem, ha egész életében a Tidal szól nonstop
+Az app
+Maga az app az hasonlít a Spotifyhoz itt is lehet műsorlistákat létrehozni, kedvelni dalokat. Itt is kapunk személyre szóló Daily mixeket, kapunk listát a leghallgatottabb dalokról és még sok másról. A telefonos applikációban nyomon tudjuk követni azt, hogy melyik előadót hallgattuk a legtöbbet. Lehetőség van az adott zenék videoklipjének megtekintése és itt is jelen vannak a dalszövegek. Megtalálható az úgynevezett rádió, ami az adott zenéhez vagy előadóhoz hasonló számokat fog játszani nekünk.
+ 
+Hangminőség felsőfokon
+A hangminőség jelen esetben kifejezetten a toppon van, ez az amiért a Tidal ennyire híres lett. 2 féle csomag érhető el, a HiFi és a HiFi Plus. Előbbi CD-minőségű 16bites 44,1kHz-es 1411Kbps fájlokat, kínál, utóbbiban pedig elérhetőek az MQA technológiával kódolt legalább 24bites 96kHz-es FLAC fájlok. Fontos, hogy nem minden szám érhető el MQA- minőségben, és ezek között is vannak különbségek. Az MQA Olyan módszer a zene digitális rögzítésre és tárolásra, hogy a fájlok elég kicsik lesznek ahhoz, hogy streamelhetőek legyenek. Vannak emberek, akik azt mondják, hogy ez jó, és hogy ténylegesen jobb a minőség, de vannak, akik nagyon ellenzik ezt. Az átlagfelhasználó viszont átlag eszközökkel, nem fog hallani különbséget az MQA és a CD minőség között.
+Érdekes Funkciók
+A Tidal HiFi Plus Tartalmaz különböző érdekes dolgokat, ilyen például a My Activity funkció, amivel megnézhetjük, hogy az adott hónapban mely előadókat hallgattuk a legtöbbet. Ha van Tidal Hifi Plus előfizetésünk, akkor annak a 10 százalékával automatikusan támogatjuk a legtöbbet hallgatott előadónkat. A Plus csomag tartalmaz még úgynevezett 360 Reality Audio. A hangokat 360 fokos hangtérben helyezi el, ezáltal a hallgatónak valósághű és térbeli hangzási élményt nyújt.  Ez csak olyan fejhallgatókkal, hangszórókkal kompatibilis melyek ezt támogatják. Ennek a párja a Tidal Dolby Atmos funkció, ez is a térhangzást és az akusztikát változtatja, de más technológiát használ. Mindkettő hangobjektumokként kezeli a különálló hangokat, és ezeket 3 dimenziós térhálózatba illeszti. A Dolby Atmost támogatott eszközök száma jóval több, és nagyobb élményben lehet részünk ellenben a 360 Reality Audioval.
+Árazás
+A Tidalnak a Spotifyal ellenben nincsen ingyenes verziója, az 1 hónapos próbaverzió viszont van. 2 csomag közül választhatunk, a csomagok tartalmazzák a HiFi minőségű zenét (már ha az olyan minőségben elérhető) reklámmentességet, zeneletöltést, egyedi műsorlistákat. A Tidal HiFi 9,99$(1499Ft) és CD-minőségű veszteségmentes zenét kapunk érte. A Tidal HiFi Plus-nál(19,99$)(2999Ft) már elérhető az MQA Formátum, a Dolby Atmos, a 360 Reality Audio, és a fent említett My Activity szolgáltatás. Az egyetemi hallgatók 50%os kedvezményt kapnak bármelyik 2 alapcsomagból. Itt is elérhető a family csomag mindkét alapcsomagnál 6 fő számára lényeges kedvezménnyel.
+ 
+Összeségében
+A Tidal-re azon felhasználóknak éri meg előfizetni, aki rendelkeznek jó miniőségű fejhallgatóval, fejhallgató erősítővel és ki tudják használni az alkalmazás által nyújtott hangminőséget. Nem mellesleg ezzel az appal tudjuk támogatni az előadók munkásságát legjobban. 
+
+Apple Music
+Kezdetek
+Az Apple Music is egy zenei streaming szolgáltatás. Az Apple termékeket használók körében jobban elterjedt és főként őket célozza meg, de nyilván bármilyen okoseszközön használható. Az Apple 2014-ben felvásárolta a Beats Music-ot majd egy évre rá elindította, az Apple Music szolgáltatást azért, hogy letaszítsa a trónról a Spotify-t.
+Maga az app
+Az Apple Music alkalmazás is felhasználóbarát felülettel rendelkezik, amely megkönnyíti a felhasználók számára az új zenék felfedezését és lejátszási listák létrehozását, valamint a hallgatási szokásaikon alapuló, számokat is meg tudunk ismerni. Az alkalmazás számos exkluzív tartalmat is tartalmaz, például élő előadásokat, interjúkat és zenei dokumentumfilmeket. Több mint 100millió zenét kínál, elég jó minőségben.
+ 
+Hangminőség
+Ami a hangminőséget illeti, 256 kbps AAC szabványos hangminőséget kapunk, ami hasonló a többi zenei streaming szolgáltatáshoz. Az Apple Music azonban lehetőséget kínál nagy hűségű, veszteségmentes hangzásra, valamint térbeli hangzásra is a Dolby Atmos támogatásával.
+Az árak magukért beszélnek
+Ami az árakat illeti, az Apple Music három hónapos ingyenes próbaidőszakot kínál az új felhasználók számára. A próbaidőszak lejárta után a felhasználók egyéni, családi és diákcsomagok közül választhatnak.
+ 
+Összességében
+Összességében elmondható, hogy az Apple Music egy népszerű zenei streaming szolgáltatás, amely felhasználóbarát alkalmazást, szabványos és nagy hangminőséget, valamint különféle árazási terveket kínál a különböző igényeknek megfelelően. Apple termékeket használó embereket célozza meg a vállalat.
+Deezer
+A Deezer története
+A Deezer francia eredetű alkalmazás, Párizsból kezdett el terjeszkedni még 2007-ben, és ma már bárhol elérhető. 2017-ben a Deezer volt az első zenei streaming szolgáltatás, amely már a 10. születésnapját ünnepelte. Ekkor történtek a nagy változások, újítások. Az app ma már több mint 185 országban érhető el. 
+Maga az app
+A Deezer ingyenesnek indult, de hamar rájöttek, hiába a reklámok és a dinamikusan bővülő felhasználói tábor, ez így nem tartható fenn, ezért 2009-ben bevezették a fizetős verziót. E mellett megmaradt az ingyenes verzió is, nyilván számos hiányossággal. A Deezer volt az első, ahol lehetett 360 Reality Audiot hallgatni, de most ez már a Tidal vagy az Amazon Music miatt nem egyedi ajánlat. Itt is pakolgathatjuk a zenéinket különböző listákba, kapunk Daily mixeket, jelen van a lyrics funkció. A Deezer flow, hasonló a többi streaming szolgáltató megoldásához, felismeri milyen zenéket szeret a felhasználó, és ilyeneket fog ajánlani. szinte minden platformról, kezelhető, legyen az akár egy okos hűtő is. Több mint 90 millió zenét, 160000 podcastet és 32000 rádióállomást hallgathatunk.
+ 
+Hangminőség
+Az ingyenes verziónál (ami Magyarországon nem elérhető)128kbps mp3 fileokat kapunk. A prémium verziónál 16-bites 44,1kHz CD-minőségű FLAC fájlokat kínálnak számunkra. Ez hasonló a Tidal Hifi szolgáltatásához. Először a Deezer-ben jelent meg a 360 Reality Audio, viszont itt is csak a támogatott eszközökkel működnek szabványosan.
+Árazás
+A Deezernek van ingyenes verziója, de ez Magyarországon nem elérhető. A prémium szolgáltatás az 1650Ft-ba kerül havonta, viszont van éves szerződés ahol 1237 forintért kapunk egy hónapot. Itt is van Hallgatói kedvezmény, amivel csak 829 Ft-ba kerül a Prémium verzió havonta. A Deezer Family 2699Ft-ba kerül havonta, 6 felhasználónak.
+  
+Összességében
+A Deezer könnyen kezelhető applikációja és óriási könyvtára miatt még mindig jelen van a legsikeresebb streaming szolgáltatók között, és óriási előnyt jelent az Ingyenes verzió, ami a hangminőséggel ellenben nagyon jól bemutatja az app szépségeit.
+
+Végszó
+Szinte az összes applikáció hasonló, de a leg kézenfekvőbb az átlagemberek számára, az a Spotify. Min ár mind lehetőségek és különböző funkcionalitások miatt ez a legmegbízhatóbb, és ez rendelkezik a legnagyobb könyvtárral. Aki komolyabb hangminőséget szeretne és nem mellesleg azt ki is tudja használni, vagy csak szimplán támogatni szeretné kedvenc előadóját, annak Tidal-t ajánlatos használni, aki pedig Apple termékeket használ főként és ott keres jobb kompatibilitást, és megbízhatóságot, az használjon Apple Musicot. A Deezer kevésbé elterjed, de annál inkább hasonlít a többi szolgáltatáshoz. Viszont a zene ajánló algoritmusai bőven alulmaradnak a Spotifyal szemben.
+Összehasonlítási táblázat
+	Spotify	Tidal	Apple Music	Deezer
+Ár egy fő számára(havonta):	1490Ft	1499Ft vagy 2999Ft	1790Ft	1650Ft
+Ingyenes verzió:		×	×	
+Hallgatói kedvezmény:				
+Lehető legnagyobb minőség:	320kbps	44,1kHz 16bit vagy 192kHz 24bit	192kHz 24bit	44.1kHz 16-bit
+Támogatott/használt fájlformátum:	OGG	MQA, AAC, ALAC, FLAC	AAC ALAC	FLAC
+Könyvtárak nagysága(millió):	100+	100+	100	90
+
+ 
+nyeremenyjatek.html
+Speciális ajánlat!
+Iratkozz fel hírlevelünkre értesülj minél hamarabb a legújabb hírekről a zeneiparban! 
+Vegyél részt nyereményjátékunkban, mondd el véleményed! 
+form:{
+Vezetéknév:	Beviteli mező: Text
+Keresztnév:	Beviteli mező: Text
+E-mail:	Beviteli mező: email
+Melyik Szolgáltatás tetszik a legjobban? 	Rádiógomb (4 lehetőség)
+Miért azt választottad?	Text area
+Feliratkozás hírlevélre?	Checkbox
+Elküld:	Submit
+Töröl:	Reset
+}
+A hírlevélre feliratkozók közül, 1 év prémiumot sorsolunk ki!

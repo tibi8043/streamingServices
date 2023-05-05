@@ -22,25 +22,28 @@
         <div class="kipozicional">
             <a href="#tartalom">Ugrás a tartalomra</a>
         </div>
-        <div id="cim" class="ps-3">            
+        <div id="cim" class="ps-3">
             <h1>Zenei streaming szolgáltatások</h1>
         </div>
         <nav class="navbar navbar-expand-lg border-0 p-0" id="mainNav">
-            <div class="container-fluid ps-0 pe-0 justify-content-end">                
-                <button class="navbar-toggler border-0 shadow-none pe-3 ps-4 pt-3 pb-3" type="button" data-bs-toggle="collapse"
-                    data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false"
-                    aria-label="Toggle navigation">
+            <div class="container-fluid ps-0 pe-0 justify-content-end">
+                <button class="navbar-toggler border-0 shadow-none pe-3 ps-4 pt-3 pb-3" type="button"
+                    data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup"
+                    aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                     <div class="navbar-nav border-0">
-                        <a class="nav-link ps-3 pe-lg-3 pt-3 pb-3 navItem" id="navItemActive" href="index.html">Kezdőlap</a>
-                        <a class="nav-link ps-3 pe-lg-3 pt-3 pb-3 navItem" href="pages/kulonbozoszempontok.html">Különböző
+                        <a class="nav-link ps-3 pe-lg-3 pt-3 pb-3 navItem" id="navItemActive"
+                            href="index.html">Kezdőlap</a>
+                        <a class="nav-link ps-3 pe-lg-3 pt-3 pb-3 navItem"
+                            href="pages/kulonbozoszempontok.html">Különböző
                             szempontok
                         </a>
-                        <a class="nav-link ps-3 pe-lg-3 pt-3 pb-3 navItem" 
+                        <a class="nav-link ps-3 pe-lg-3 pt-3 pb-3 navItem"
                             href="pages/szolgaltatasok.html">Összehasonlítások</a>
-                        <a class="nav-link ps-3 pe-lg-3 pt-3 pb-3 navItem" href="pages/nyeremenyjatek.html">Nyereményjáték</a>
+                        <a class="nav-link ps-3 pe-lg-3 pt-3 pb-3 navItem"
+                            href="pages/nyeremenyjatek.html">Nyereményjáték</a>
                     </div>
                 </div>
             </div>
@@ -49,7 +52,7 @@
     <main id="tartalom">
         <div class="container text-center">
             <div class="row align-items-center justify-content-center d-flex">
-                <section class="col-12 col-lg-8">
+                <div class="col-12 col-lg-8">
                     <article>
                         <h2>Mik azok a streaming szolgáltatások?</h2>
                         <p class="szoveg">
@@ -118,49 +121,53 @@
                             választáskor.
                         </p>
                     </article>
-                </section>
+                </div>
             </div>
         </div>
     </main>
     <footer class=" mt-auto d-flex flex-column justify-content-center">
-        <div class="text-center">
-            <p id="footerEvszam">@<time datetime="2023">2023</time></p>
-            <hr>
+        <div class="text-center d-none d-lg-block">
+            <p class="footerEvszam">@<time datetime="2023">2023</time></p>
+            <hr class="d-none d-lg-block">
         </div>
         <div class="container p-lg-2">
-            
+
             <div class="row d-flex justify-content-between footerBigBox">
                 <div
                     class="footerBox col-12 col-lg-4 text-center d-flex justify-content-center p-2  justify-content-lg-start align-items-center">
-                    <div id="FooterIconsAndName">
+                    <div class="FooterIconsAndName">
                         <span class="footerSzoveg">Aux Tibor</span>
                         <div class="ikonokEgymasMellett">
-                            <a target="_blank" href="https://www.linkedin.com/in/tibor-aux-49a232214/"><button
-                                    class="btn p-0 border-0"><i
-                                        class="fa-brands fa-xl fa-fw fa-linkedin"></i></button></a>
-                            <a target="_blank" href="https://github.com/tibi8043"><button class="btn p-0 border-0"><i
-                                        class="fa-brands fa-xl fa-fw fa-square-github"></i></button></a>
+                            <a target="_blank" href="https://www.linkedin.com/in/tibor-aux-49a232214/"><i
+                                    class="fa-brands fa-xl fa-fw fa-linkedin"></i></a>
+                            <a target="_blank" href="https://github.com/tibi8043"><i
+                                    class="fa-brands fa-xl fa-fw fa-square-github"></i></a>
                         </div>
                     </div>
                 </div>
                 <div
                     class="footerBox col-12 col-lg-4 text-center d-flex justify-content-center p-2  justify-content-lg-center align-items-center">
-                    <div id="FooterIconsAndName">
+                    <div class="FooterIconsAndName">
                         <a href="#top"><i class="fa-solid fa-xl fa-angles-up"></i>
                             <br> <span class="footerSzoveg">Ugrás a lap tetejére</span></a>
-                        
+
                     </div>
                 </div>
                 <div
                     class="footerBox col-12 col-lg-4 text-center d-flex justify-content-center p-2  justify-content-lg-end align-items-center">
                     <div>
-                        <a id="nagybetus" href="#" onclick="setActiveStyleSheet('nagybetus'); return false;"><i class="fa-solid fa-sm fa-magnifying-glass-plus"></i> Nagybetűs
+                        <a id="nagybetus" href="#" onclick="setActiveStyleSheet('nagybetus'); return false;"><i
+                                class="fa-solid fa-sm fa-magnifying-glass-plus"></i> Nagybetűs
                             változat</a>
-                        <a id="normal" href="#" onclick="setActiveStyleSheet('normal'); return false;"><i class="fa-solid fa-sm fa-magnifying-glass-minus"></i>Normál
+                        <a id="normal" href="#" onclick="setActiveStyleSheet('normal'); return false;"><i
+                                class="fa-solid fa-sm fa-magnifying-glass-minus"></i>Normál
                             változat</a>
                     </div>
                 </div>
             </div>
+        </div>
+        <div class="text-center d-block d-lg-none ">
+            <p class="footerEvszam">@<time datetime="2023">2023</time></p>
         </div>
     </footer>
 </body>
