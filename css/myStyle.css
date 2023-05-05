@@ -158,6 +158,11 @@ footer p {
   color: black;
   background-color: rgba(95, 126, 128, 0.503);
 }
+#navItemActive {
+  font-weight: 700;
+  color: black;
+  border-bottom: solid 0.2em rgba(95, 126, 128, 0.658);
+}
 .FooterIconsAndName {
   width: fit-content;
   display: flex;
@@ -183,11 +188,6 @@ footer .footerSzoveg {
 /* article h2,p /article */
 article {
   margin: 2em 0;
-}
-#navItemActive {
-  font-weight: 700;
-  color: black;
-  border-bottom: solid 0.2em rgba(95, 126, 128, 0.658);
 }
 form {
   text-align: left;
